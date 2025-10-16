@@ -4,7 +4,7 @@ A small Gradio app that summarizes DOCX documents using OpenAI GPT.
 Built and deployed on Hugging Face Spaces.
 
 ## Live demo
-https://huggingface.co/spaces/YOUR_HF_USERNAME/ai-docx-summarizer
+https://huggingface.co/spaces/pmchittilappilly/ai-docx-summarizer
 
 ## Files
 - `app.py` — Gradio app and OpenAI integration
